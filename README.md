@@ -1,6 +1,6 @@
 # 📁 Collapsible Sidebar (Responsive Design)
 
-A simple and responsive **collapsible sidebar** built using **HTML**, **CSS**, and **JavaScript**. This project is ideal for dashboards, admin panels, portfolios, or any application requiring a sidebar navigation layout.
+A simple and responsive **collapsible sidebar** built using **HTML**, **CSS**, and **JavaScript**. This project is ideal for dashboards, admin panels, portfolios, or any application requiring a sidebar navigation layout. Basically, its a sidebar component you can use the code to add to any project.
 
 ## ✨ Features
 
