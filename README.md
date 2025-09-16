@@ -15,10 +15,10 @@ A simple and responsive **collapsible sidebar** built using **HTML**, **CSS**, a
 ## 🗂️ Project Structure
 
 collapsible-sidebar/
-├── index.html # Main HTML file
-├── index.css # All CSS styles
-├── index.js # JavaScript for sidebar toggle
-└── README.md # This file
+├── index.html # Main HTML file<br>
+├── index.css # All CSS styles<br>
+├── index.js # JavaScript for sidebar toggle<br>
+└── README.md # This file<br>
 
 
 ## 🛠️ Technologies Used
